@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_daily/2023-06-08.md",
+                "file": "_wiki/L-Dopa.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_daily/2023-06-08.md",
+                "file": "_wiki/L-Dopa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_daily/2023-06-08.md",
+                "file": "_wiki/L-Dopa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_daily/2023-06-08.md"
+                "file": "_wiki/L-Dopa.md"
               }
             }
           },
@@ -175,16 +175,23 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
+    "_wiki/Usufruct.md",
+    "_wiki/L-Dopa.md",
+    "_daily/2022-05-11.md",
     "_daily/2023-06-08.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_articles/Set up a Custom Domain.md",
+    "_articles/Exocore Installation Instructions.md",
+    "_articles/The Exocore Package.md",
+    "_journal/Ginseng Chicken Tonic Soup (Chinese Style).md",
+    "images/animegirl.png",
+    "_scrapbook/Predictive Processing and the Free Energy Principle.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
     "_daily/2022-10-25.md",
-    "_articles/Exocore Installation Instructions.md",
     "_articles/Writing with Exocore Syntax.md",
     "assets/imgs/bg-yotsuba.gif",
-    "_articles/Configure Exocore for Personal Use.md",
-    "_daily/2022-10-23.md",
-    "_daily/2022-05-11.md"
+    "_daily/2022-10-23.md"
   ]
 }
